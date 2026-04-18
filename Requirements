@@ -1,0 +1,32 @@
+# Magseed CNN – Python Dependencies
+# Install with: pip install -r requirements.txt
+# Requires Python 3.11
+
+# Deep learning
+Torch>=2.0.0
+Torchvision>=0.15.0
+
+# Data handling
+Numpy>=1.24.0
+Pandas>=2.0.0
+Pillow>=9.5.0
+Pydicom>=2.3.0
+
+# Computer vision
+Opencv-python>=4.7.0
+Albumentations>=1.3.0
+
+# Machine learning utilities
+Scikit-learn>=1.2.0
+
+# Visualisation
+Matplotlib>=3.7.0
+
+# Progress bars
+Tqdm>=4.65.0
+
+# Dataset download
+Kagglehub
+
+#GPU
+Google Colab A100
