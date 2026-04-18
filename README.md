@@ -62,7 +62,7 @@ Train/test split: **80/20** (2,863 train / 704 test), split at patient level to 
 
 ## Quickstart — Google Colab (Recommended)
 
-1. Open `Magseed_ResUNet_Colab_v6_scratch.ipynb` in Google Colab
+1. Open `MagseedResUNetColabv6.ipynb` in Google Colab
 2. Runtime → Change runtime type → **A100 GPU**
 3. Runtime → **Run all**
 
